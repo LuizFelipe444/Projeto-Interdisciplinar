@@ -1,0 +1,99 @@
+﻿
+.carousel {
+margin-top: 50px;
+position: relative;
+overflow: hidden;
+}
+
+.carousel-inner {
+display: flex;
+transition: transform 0.5s ease;
+}
+
+.week {
+display: flex;
+flex: 0 0 100%;
+max-width: 100%;
+box-sizing: border-box;
+border-radius: 5px;
+align-items: center;
+flex-direction: row;
+flex-wrap: nowrap;
+align-content: center;
+justify-content: center;
+}
+
+
+.week h2 {
+margin-top: 0;
+margin-bottom: 1rem;
+font-size: 1.0rem;
+font-weight: bold;
+}
+
+table {
+    border-collapse: separate; /* separa as bordas das células da tabela */
+    border-spacing: 60px 10px; /* adicione um espaçamento de 0 pixels horizontal e 10 pixels vertical entre as células */
+    border-bottom: 3px solid #014087;
+}
+
+
+.carousel-week {
+padding-bottom: 20px;
+}
+
+
+.carousel-week td {
+text-align: center;
+background-color: #023eae;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+text-decoration: none;
+text-transform: none;
+font-size: 20px;
+}
+
+.carousel-week td a {
+color: white;
+}
+
+.carousel-week td:hover {
+background-color: #0027e8;
+}
+
+.carousel-week td a:hover {
+font-size: 25px;
+color: white;
+}
+
+
+.carousel-week th {
+font-size: 1.2rem;
+}
+
+
+.carousel-btn {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+z-index: 1;
+background: transparent;
+border: none;
+font-size: 2rem;
+color: black;
+cursor: pointer;
+}
+
+.carousel-btn img {
+width: 25px;
+}
+
+.prev {
+left: 320px;
+}
+
+
+.next {
+right: 320px;
+}

@@ -1,0 +1,55 @@
+﻿#transferencias {
+margin: 30px 250px;
+display: none;
+margin-bottom: 500px;
+}
+
+.card-row {
+justify-content: space-around;
+display: flex;
+}
+
+.card {
+background-color: rgb(238, 238, 238);
+width: 350px;
+height: 140px;
+border: 1px solid grey;
+border-radius: 5px;
+}
+
+.card div {
+padding: 3px;
+}
+
+.item-top {
+text-align: center;
+border: 1px solid rgb(215, 215, 215);
+}
+
+.item-mid {
+display: flex;
+align-items: center;
+justify-content: space-between;
+border: 1px solid rgb(215, 215, 215);
+}
+
+.item-mid img {
+border: 1px solid grey;
+border-radius: 50%;
+width: 35px;
+}
+
+.item-mid2 {
+border: 1px solid rgb(215, 215, 215);
+text-align: center;
+}
+
+.item-bottom {
+background-color: rgb(147, 147, 148);
+align-items: center;
+text-align: center;
+}
+
+.item-bottom p {
+padding-bottom: 13px;
+}

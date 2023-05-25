@@ -1,0 +1,207 @@
+/* _content/WebApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+*[b-7882z672yd] {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: none;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-main[b-7882z672yd] {
+    background-color: #070561;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 1px;
+    height: 95px;
+    width: 100%;
+}
+
+.middle-side[b-7882z672yd] {
+    display: flex;
+    align-items: center;
+}
+
+    .middle-side div a[b-7882z672yd] {
+        color: white;
+    }
+
+.right-side[b-7882z672yd] {
+    display: flex;
+    align-items: center;
+}
+
+.menu-item[b-7882z672yd] {
+    margin-right: 20px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 18px;
+    transition: all ease-in-out;
+}
+
+.menu-img[b-7882z672yd] {
+    margin-right: 20px;
+}
+
+    .menu-img img[b-7882z672yd] {
+        background-color: #0028ED;
+        border: 1px solid #000b40;
+        border-radius: 100%;
+        width: 45px;
+        padding: 5px;
+    }
+
+.menu-item a:hover[b-7882z672yd] {
+    padding-bottom: 30px;
+    border-bottom: 3px solid #DDED2F;
+}
+
+.login-button[b-7882z672yd] {
+    background-color: #0025DB;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+    .login-button:hover[b-7882z672yd] {
+        background-color: #050450;
+    }
+
+.register-button[b-7882z672yd] {
+    background-color: #070561;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .register-button:hover[b-7882z672yd] {
+        background-color: #050450;
+    }
+
+.header-hamburguer-camp[b-7882z672yd] {
+    padding-left: 300px;
+    background-color: #070561;
+    border-top: 3px solid #014087;
+}
+
+.campeonatos-menu[b-7882z672yd] {
+    padding-top: 10px;
+    display: none;
+    left: 0;
+    width: 100%;
+    background-color: #070561;
+    transition: transform 0.5s ease-in-out;
+    padding-bottom: 10px;
+}
+
+.campeonatos-menu-list[b-7882z672yd] {
+    display: flex;
+}
+
+.campeonatos-menu ul[b-7882z672yd] {
+    margin-right: 50px;
+}
+
+    .campeonatos-menu ul li[b-7882z672yd] {
+        padding: 7px;
+        padding-left: 15px;
+        padding-right: 15px;
+        display: flex;
+        align-items: center;
+        margin-top: 5px;
+    }
+
+        .campeonatos-menu ul li:hover[b-7882z672yd] {
+            background-color: #0a0187;
+            border-radius: 5px;
+        }
+
+        .campeonatos-menu ul li a[b-7882z672yd] {
+            color: white;
+            font-size: 18px;
+            margin-left: 5px;
+        }
+
+        .campeonatos-menu ul li img[b-7882z672yd] {
+            width: 30px;
+        }
+
+.campeonatos-menu.show[b-7882z672yd] {
+    display: flex;
+    flex-direction: column;
+    animation: slide-down-b-7882z672yd 0.5s ease-in-out forwards;
+}
+
+@keyframes slide-down-b-7882z672yd {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.header-hamburguer-camp[b-7882z672yd] {
+    padding-left: 300px;
+    background-color: #070561;
+    border-top: 3px solid #014087;
+}
+
+.times-menu[b-7882z672yd] {
+    padding-top: 10px;
+    display: none;
+    left: 0;
+    width: 100%;
+    background-color: #070561;
+    transition: transform 0.5s ease-in-out;
+    padding-bottom: 10px;
+}
+
+.times-menu-titulo[b-7882z672yd] {
+    height: 100%;
+}
+
+.times-menu ul[b-7882z672yd] {
+    margin-right: 50px;
+}
+
+    .times-menu ul li[b-7882z672yd] {
+        padding-right: 15px;
+        display: flex;
+        align-items: center;
+        margin-top: 5px;
+    }
+
+        .times-menu ul li:hover[b-7882z672yd] {
+            background-color: #0a0187;
+            border-radius: 5px;
+        }
+
+        .times-menu ul li a[b-7882z672yd] {
+            color: white;
+            font-size: 21px;
+            margin-top: 5px;
+        }
+
+        .times-menu ul li img[b-7882z672yd] {
+            width: 35px;
+        }
+
+.times-menu.show2[b-7882z672yd] {
+    display: flex;
+    animation: slide-down-b-7882z672yd 0.5s ease-in-out forwards;
+}

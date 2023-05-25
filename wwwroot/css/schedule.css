@@ -1,0 +1,53 @@
+﻿* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.schedule-row {
+margin-left: 300px;
+margin-right: 100px;
+display: flex;
+flex-wrap: wrap;
+}
+.schedule-games {
+    width: 398px;
+    height: 110px;
+    border-radius: 7px;
+    margin-right: 55px;
+    margin-bottom: 20px;
+    background-color: #F2FEFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}
+
+.schedule-game-top {
+display: flex;
+justify-content: space-between;
+}
+
+.schedule-game-top span {
+font-size: 13px
+}
+
+.schedule-game-mid {
+padding: 5px;
+justify-content: space-between;
+display: flex;
+align-items: center;
+}
+
+.schedule-game-mid span {
+margin-top:10px;
+font-size: 18px;
+}
+
+.game-teams {
+display: flex;
+flex-direction: column;
+}
+
+.game-result {
+display: flex;
+flex-direction: column;
+}
+

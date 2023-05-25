@@ -1,0 +1,38 @@
+﻿body {
+    background-color: #E8F7FF;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+}
+
+.schedule-body {
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+
+
+.body-tittle {
+padding-top: 50px;
+margin-left: 310px;
+}
+
+.body-tittle span {
+display: flex;
+align-items: center;
+font-size: 25px;
+}
+
+.body-tittle img {
+width: 40px;
+margin-right: 10px;
+}
+
+.body-tittle p {
+font-size: 18px;
+color: blue;
+}
