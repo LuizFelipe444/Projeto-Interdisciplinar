@@ -145,18 +145,18 @@
 </p>
 <div class="schedule-row">
 @foreach (var item in Model) {
-    <div class="schedule">
+    <div class="schedule" id="schedule">
         <div class="schedule-body">
             <div class="schedule-main">
-                <div class="schedule-games" id="schedule">
+                <div class="schedule-games">
                     <div class="schedule-game-top">
                         <span>@Html.DisplayFor(modelItem => item.Rodada)</span>
                         <span>@Html.DisplayFor(modelItem => item.dataJogo)</span>
                     </div>
                     <div class="schedule-game-mid">
                         <div class="game-teams">
-                            <span><img src=""><span>@Html.DisplayFor(modelItem => item.timeMandante)</span></span>
-                            <span><img src=""><span>@Html.DisplayFor(modelItem => item.timeVisitante)</span></span>
+                            <span><img src="~/imagens/Time/@item.ImagemMandante"><span>@Html.DisplayFor(modelItem => item.timeMandante)</span></span>
+                            <span><img src="~/imagens/Time/@item.ImagemVisitante"><span>@Html.DisplayFor(modelItem => item.timeVisitante)</span></span>
                         </div>
                         <div class="game-result">
                             <span>@Html.DisplayFor(modelItem => item.resultadoMandante)</span>

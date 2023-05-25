@@ -1,0 +1,212 @@
+﻿style.css
+/* NAV*/
+body {
+    background-color: rgb(221, 221, 221);
+}
+
+nav {
+    background-color: white;
+    height: 80px;
+    text-align: center;
+}
+
+    nav span {
+        display: inline-block;
+        margin-top: 15px;
+        font-size: 45px;
+    }
+
+    nav img#lua {
+        display: none;
+    }
+/*TITULO NOTICIAS*/
+main span#titulo {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 150px;
+}
+
+main span img {
+    height: 30px;
+    width: 30px;
+}
+/* CARDS */
+main #principal {
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 40px 40px 40px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+span#topnews {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+#card1 {
+    border: 2px solid rgb(161, 161, 161);
+    background-color: rgb(214, 214, 214);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    display: flex;
+}
+
+#textoCard1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+
+    #textoCard1 h1 {
+        display: inline-block;
+        margin: 20px 0 15px 20px;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    #textoCard1 span {
+        margin: 20px 25px 0 25px;
+        text-align: left;
+        font-size: 24px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+/* Card 2*/
+
+#card2 {
+    height: 697px;
+    display: inline-block;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    width: 32%;
+    border: 2px solid rgb(161, 161, 161);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: rgb(214, 214, 214);
+}
+
+#textoCard2 {
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+}
+
+    #textoCard2 h1 {
+        display: inline-block;
+        margin: 12px 0 12px 0;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    #textoCard2 span {
+        margin: 0 25px 10px 25px;
+        text-align: left;
+        font-size: 24px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+#card3 {
+    width: 32%;
+    margin: 0 20px 0 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border: 2px solid rgb(161, 161, 161);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    background-color: rgb(214, 214, 214);
+}
+
+@media screen and (max-width: 1320px) {
+    nav {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+        nav span {
+            font-size: 35px;
+        }
+
+    main span#titulo {
+        margin: 10px 0 10px 10px;
+    }
+
+    div#principal {
+        width: 94%;
+        margin-left: 7px;
+        margin-right: 0;
+        padding-left: 10px;
+        padding-right: 0px;
+    }
+
+    #card1 {
+        height: 100%;
+        width: 96%;
+        display: inline-block;
+        padding-bottom: 20px;
+        border: 2px solid rgb(161, 161, 161);
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        background-color: rgb(214, 214, 214);
+    }
+
+        #card1 img {
+            width: 100% !important;
+            height: 270px;
+        }
+
+    #card2 {
+        width: 96%;
+        height: 100%;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    #card3 {
+        margin: 20px 0 0 0;
+        width: 96%;
+        height: 100%;
+    }
+
+    #textoCard1 {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: center;
+        align-items: center;
+    }
+
+        #textoCard1 h1 {
+            display: inline-block;
+            margin: 12px 0 12px 0;
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        #textoCard1 span {
+            margin: 0 25px 10px 25px;
+            text-align: left;
+            font-size: 24px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+}

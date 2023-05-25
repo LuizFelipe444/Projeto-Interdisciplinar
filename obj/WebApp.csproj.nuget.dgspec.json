@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\WebApp.csproj",
         "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",

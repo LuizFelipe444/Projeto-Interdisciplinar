@@ -30,24 +30,35 @@ font-size: 13px
 }
 
 .schedule-game-mid {
-padding: 5px;
+padding: 10px;
 justify-content: space-between;
 display: flex;
 align-items: center;
 }
 
-.schedule-game-mid span {
-margin-top:10px;
-font-size: 18px;
-}
+    .schedule-game-mid span {
+        font-size: 18px;
+        align-items: center;
+    }
 
 .game-teams {
 display: flex;
 flex-direction: column;
+
 }
+    .game-teams img {
+        margin-right: 5px;
+        width: 25px;
+    }
+    .game-teams span {
+        display: flex;
+        margin-top: 5px;
+    }
 
 .game-result {
 display: flex;
 flex-direction: column;
 }
-
+    .game-result span {
+        margin-top: 10px;
+    }

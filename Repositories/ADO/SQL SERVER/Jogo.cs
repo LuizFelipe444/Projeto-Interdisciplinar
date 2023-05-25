@@ -16,7 +16,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                 {
                     command.Connection = connection;
                     command.CommandText = "SET IDENTITY_INSERT jogo ON " +
-                        "insert into jogo (idJogo,timeMandante, timeVisitante,Rodada, resultadoMandante, resultadoVisitante,  statusDoJogo, detalhes, dataJogo) values (@idJogo,@timeMandante,@timeVisitante,@Rodada, @ResultadoMandante, @ResultadoVisitante,  @StatusDoJogo, @Detalhes,@dataJogo);" +
+                        "insert into jogo (idJogo,timeMandante, timeVisitante,Rodada, resultadoMandante, resultadoVisitante,  statusDoJogo,dataJogo, ImagemMandante, ImagemVisitante) values (@idJogo,@timeMandante,@timeVisitante,@Rodada, @ResultadoMandante, @ResultadoVisitante,  @StatusDoJogo, @dataJogo, @ImagemMandante,@ImagemVisitante);" +
                         "SET IDENTITY_INSERT jogo OFF";
                     command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = jogo.idJogo;
                     command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
@@ -26,6 +26,8 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                     command.Parameters.Add(new SqlParameter("@resultadoVisitante", System.Data.SqlDbType.Int)).Value = jogo.resultadoVisitante;
                     command.Parameters.Add(new SqlParameter("@statusDoJogo", System.Data.SqlDbType.VarChar)).Value = jogo.statusDoJogo;
                     command.Parameters.Add(new SqlParameter("@dataJogo", System.Data.SqlDbType.Date)).Value = jogo.dataJogo;
+                    command.Parameters.Add(new SqlParameter("@ImagemMandante", System.Data.SqlDbType.VarChar)).Value = jogo.ImagemMandante;
+                    command.Parameters.Add(new SqlParameter("@ImagemVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.ImagemVisitante;
 
                     command.ExecuteNonQuery();
                 }
@@ -44,7 +46,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "select idJogo, timeMandante, timeVisitante,Rodada,resultadoMandante,resultadoVisitante,statusDoJogo,detalhes,dataJogo from jogo";
+                    command.CommandText = "select idJogo, timeMandante, timeVisitante,Rodada,resultadoMandante,resultadoVisitante,statusDoJogo,dataJogo,ImagemMandante,ImagemVisitante from jogo";
                     SqlDataReader dr = command.ExecuteReader();
                     while (dr.Read())
                     {
@@ -57,6 +59,8 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                         jogo.resultadoVisitante = (int)dr["resultadoVisitante"];
                         jogo.statusDoJogo = (string)dr["statusDoJogo"];
                         jogo.dataJogo = (DateTime)dr["dataJogo"];
+                        jogo.ImagemMandante = (string)dr["ImagemMandante"];
+                        jogo.ImagemVisitante = (string)dr["ImagemVisitante"];
                         jogos.Add(jogo);
 
                     }
@@ -95,7 +99,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                     using (SqlCommand command = new SqlCommand())
                     {
                         command.Connection = connection;
-                        command.CommandText = "update jogo set timeMandante = @timeMandante, timeVisitante = @timeVisitante, Rodada = @Rodada, resultadoMandante =@resultadoMandante, resultadoVisitante = @resultadoVisitante, statusdojogo = @statusdojogo, detalhes = @detalhes, datajogo = @datajogo where idJogo = @idjogo";
+                        command.CommandText = "update jogo set timeMandante = @timeMandante, timeVisitante = @timeVisitante, Rodada = @Rodada, resultadoMandante =@resultadoMandante, resultadoVisitante = @resultadoVisitante, statusdojogo = @statusdojogo, datajogo = @datajogo where idJogo = @idjogo";
                         command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = jogo.idJogo;
                         command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
                         command.Parameters.Add(new SqlParameter("@timeVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.timeVisitante;
@@ -104,6 +108,8 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                         command.Parameters.Add(new SqlParameter("@resultadoVisitante", System.Data.SqlDbType.Int)).Value = jogo.resultadoVisitante;
                         command.Parameters.Add(new SqlParameter("@statusDoJogo", System.Data.SqlDbType.VarChar)).Value = jogo.statusDoJogo;
                         command.Parameters.Add(new SqlParameter("@dataJogo", System.Data.SqlDbType.Date)).Value = jogo.dataJogo;
+                        command.Parameters.Add(new SqlParameter("@ImagemMandante", System.Data.SqlDbType.VarChar)).Value = jogo.ImagemMandante;
+                        command.Parameters.Add(new SqlParameter("@ImagemVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.ImagemVisitante;
 
                         command.ExecuteNonQuery();
                     }
