@@ -41,6 +41,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\ETnCKyQ0YITbiaynktQG.jpg",
+      "PackagePath": "staticwebassets\\imagens\\ETnCKyQ0YITbiaynktQG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\SCCPxNike_Home_Details_1x1_1-2.jpg",
+      "PackagePath": "staticwebassets\\imagens\\SCCPxNike_Home_Details_1x1_1-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Time\\corinthians.png",
       "PackagePath": "staticwebassets\\imagens\\Time\\corinthians.png"
     },
@@ -121,12 +133,24 @@
       "PackagePath": "staticwebassets\\imagens\\pesquisa.png"
     },
     {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\pngwing.com.png",
+      "PackagePath": "staticwebassets\\imagens\\pngwing.com.png"
+    },
+    {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\roger-guedes-se-lamenta-em-corinthians-x-del-valle-jogo-da-libertadores-1683077670439_v2_450x450.jpg",
+      "PackagePath": "staticwebassets\\imagens\\roger-guedes-se-lamenta-em-corinthians-x-del-valle-jogo-da-libertadores-1683077670439_v2_450x450.jpg"
+    },
+    {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\sol.png",
       "PackagePath": "staticwebassets\\imagens\\sol.png"
     },
     {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\spnb.jpg",
       "PackagePath": "staticwebassets\\imagens\\spnb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\user.png",
+      "PackagePath": "staticwebassets\\imagens\\user.png"
     },
     {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\veiga.jpg",
@@ -139,6 +163,10 @@
     {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\hamburguer.js",
       "PackagePath": "staticwebassets\\js\\hamburguer.js"
+    },
+    {
+      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\navheader.js",
+      "PackagePath": "staticwebassets\\js\\navheader.js"
     },
     {
       "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\site.js",

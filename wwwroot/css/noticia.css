@@ -16,14 +16,13 @@ main {
 }
 
 .noticia {
-    background-color: #e6e6e6;
-    height: 547px;
+    background-color: #ffffff4a;
+    height: 538px;
     width: 1200px;
     border-radius: 15px;
     align-items: center;
     display: flex;
-    border-bottom: 2px solid black;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
 .noticia-titulo {
@@ -31,7 +30,7 @@ main {
 }
 
     .noticia-titulo h3 {
-        font-size: 25px;
+        font-size: 18px;
         color: black;
     }
 
@@ -42,6 +41,7 @@ main {
 }
 
 .noticia p {
+    font-weight:bold;
     padding: 15px;
     font-size: 17px;
 }
@@ -53,12 +53,11 @@ main {
 }
 
 .noticia-row {
-    background-color: #e6e6e6;
+    background-color: #ffffff4a;
     width: 550px;
     border-radius: 10px;
     display: flex;
     align-items: center;
-    border-bottom: 2px solid black;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 

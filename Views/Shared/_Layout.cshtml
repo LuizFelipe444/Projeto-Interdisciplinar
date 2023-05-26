@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="~/css/footer.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/schedule.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/navheader.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/noticia.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/transferencia.css" asp-append-version="true" />
 
 
 </head>
@@ -18,7 +21,7 @@
 
         <div class="header-main" id="header-main">
             <div class="left-side">
-                <div class="menu-item">FUTEBOL&DIGITAL</div>
+                <div class="menu-item-logo"><a asp-controller="Home" asp-action="Index">FUTEBOL&DIGITAL</a></div>
                 <div class="menu-item"><a asp-controller="Jogo" asp-action="Index">Jogos</a></div>
                 <div class="menu-item"><a href="" id="campeonatos-btn">Campeonatos</a> </div>
                 <div class="menu-item"><a href="" id="times-btn">Times</a> </div>
@@ -53,7 +56,7 @@
                     <span style="color: rgb(224, 224, 224); font-size: 15px;">Top Times</span>
                     <ul>
                         <li>
-                            <img src="../imagens/corinthians.png" alt=""><a asp-controller ="Time" asp-action="View">Corinthians</a>
+                            <img src="../imagens/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
                         </li>
                         <li></li>
                         <li></li>
@@ -97,6 +100,7 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/carousel.js"></script>
     <script src="~/js/hamburguer.js" asp-append-version="true"></script>
+    <script src="~/js/navheader.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

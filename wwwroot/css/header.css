@@ -61,6 +61,11 @@
        border-radius: 50%;
        
     }
+.menu-item-logo {
+    margin-right: 20px;
+    font-size:17px;
+    font-weight: bold;
+}
         .menu-item img:hover {
             background-color: #050450;
         }
