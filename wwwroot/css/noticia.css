@@ -18,7 +18,7 @@ main {
 .noticia {
     background-color: #ffffff4a;
     height: 538px;
-    width: 1200px;
+    width: 1500px;
     border-radius: 15px;
     align-items: center;
     display: flex;
@@ -36,7 +36,7 @@ main {
 
 .noticia img {
     border-radius: 20px;
-    width: 1500px;
+    width: 1800px;
     height: 535px;
 }
 
@@ -47,12 +47,15 @@ main {
 }
 
 .noticia-row-main {
+    margin-left: 200px;
+    margin-right:185px;
     margin-top: 20px;
     display: flex;
     justify-content: space-evenly;
 }
 
 .noticia-row {
+    margin-right: 15px;
     background-color: #ffffff4a;
     width: 550px;
     border-radius: 10px;
@@ -62,7 +65,7 @@ main {
 }
 
     .noticia-row img {
-        width: 300px;
+        width: 250px;
     }
 
     .noticia-row p {

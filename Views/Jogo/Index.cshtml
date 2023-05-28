@@ -4,6 +4,10 @@
 @{
     ViewData["Title"] = "Index";
 }
+  <div class="body-tittle">
+    <span><img src="imagens/agenda.png" alt="">Agenda de Jogos de Futebol</span>
+    <p>Acompanhe Eventos e Resultados</p>
+  </div>
 
 <div class="carousel">
     <div class="carousel-inner">
@@ -166,7 +170,10 @@
                             <span>@Html.DisplayFor(modelItem => item.statusDoJogo)</span>
                         </div>
                     </div>
-
+                        <div>
+                            @Html.ActionLink("Editar", "Edit", new { idJogo=item.idJogo }) |
+                            @Html.ActionLink("Excluir", "Delete", new {  idJogo=item.idJogo  })
+                        </div>
                 </div>
             </div>
         </div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fMea/W64SYFm7PIrYMg07l2xidXJuuq8QQId3r1dFBY=",
+  "Hash": "7av+r8WzOm+f0J51ZVWSFczUs9EDAYgzU/0eNrWegDc=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg"
     },
     {
+      "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\22519463_1585252804894808_443642118278458540_n.png",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "imagens/22519463_1585252804894808_443642118278458540_n.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\22519463_1585252804894808_443642118278458540_n.png"
+    },
+    {
       "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\agenda.png",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
@@ -272,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\imagens\\brasil.png"
     },
     {
+      "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "imagens/cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg"
+    },
+    {
       "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\deivid.jpg",
       "SourceId": "WebApp",
       "SourceType": "Discovered",
@@ -321,6 +355,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\direita.png"
+    },
+    {
+      "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Elenco-Corinthians-2015.jpg",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "imagens/Elenco-Corinthians-2015.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\Elenco-Corinthians-2015.jpg"
     },
     {
       "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\espoanha.png",

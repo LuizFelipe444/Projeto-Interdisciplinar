@@ -99,7 +99,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                     using (SqlCommand command = new SqlCommand())
                     {
                         command.Connection = connection;
-                        command.CommandText = "update jogo set timeMandante = @timeMandante, timeVisitante = @timeVisitante, Rodada = @Rodada, resultadoMandante =@resultadoMandante, resultadoVisitante = @resultadoVisitante, statusdojogo = @statusdojogo, datajogo = @datajogo where idJogo = @idjogo";
+                        command.CommandText = "update jogo set timeMandante = @timeMandante, timeVisitante = @timeVisitante, Rodada = @Rodada, resultadoMandante =@resultadoMandante, resultadoVisitante = @resultadoVisitante, statusdojogo = @statusdojogo, datajogo = @datajogo, ImagemMandante = @ImagemMandante, ImagemVisitante = @ImagemVisitante  where idJogo = @idjogo";
                         command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = jogo.idJogo;
                         command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
                         command.Parameters.Add(new SqlParameter("@timeVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.timeVisitante;

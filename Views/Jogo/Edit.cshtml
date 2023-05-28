@@ -53,6 +53,16 @@
                 <span asp-validation-for="dataJogo" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="ImagemMandante" class="control-label"></label>
+                <input asp-for="ImagemMandante" class="form-control" type="file" />
+                <span asp-validation-for="ImagemMandante" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImagemVisitante" class="control-label"></label>
+                <input asp-for="ImagemVisitante" class="form-control" type="file" />
+                <span asp-validation-for="ImagemVisitante" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
             </div>
         </form>
