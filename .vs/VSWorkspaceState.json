@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Repositories",
-    "\\Views\\Carros"
+    "\\wwwroot",
+    "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Views",
+  "SelectedNode": "\\wwwroot\\css\\header.css",
   "PreviewInSolutionExplorer": false
 }

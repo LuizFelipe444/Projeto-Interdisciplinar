@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = C:\Users\luizb\OneDrive\Desktop\WebApp\Projeto-Interdisciplinar\
+build_property.ProjectDir = C:\Users\diogo\source\repos\LuizFelipe444\Projeto-Interdisciplinar\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\luizb\OneDrive\Desktop\WebApp\Projeto-Interdisciplinar
+build_property.MSBuildProjectDirectory = C:\Users\diogo\source\repos\LuizFelipe444\Projeto-Interdisciplinar
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Campeonato/Index.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Campeonato/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGVvbmF0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Home/Index.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Jogo/Create.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Jogo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Jogo/Delete.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Jogo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Jogo/Edit.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Jogo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Jogo/Index.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Jogo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Shared/Error.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Shared/_Layout.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/Time/Index.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/Time/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/_ViewImports.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luizb/OneDrive/Desktop/WebApp/Projeto-Interdisciplinar/Views/_ViewStart.cshtml]
+[C:/Users/diogo/source/repos/LuizFelipe444/Projeto-Interdisciplinar/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
