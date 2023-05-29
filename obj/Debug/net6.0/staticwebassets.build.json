@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7av+r8WzOm+f0J51ZVWSFczUs9EDAYgzU/0eNrWegDc=",
+  "Hash": "57jBb55kpKKV0F23WDogVlXwWcpjXQQ7ML1kSG9h/oY=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\schedule.css"
+    },
+    {
+      "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\tabelajogos.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/tabelajogos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tabelajogos.css"
     },
     {
       "Identity": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\transferencia.css",

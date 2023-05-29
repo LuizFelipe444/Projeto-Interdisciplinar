@@ -1,5 +1,9 @@
-﻿body {
+﻿* {
+    font-family:Arial;
+}
+body {
     background-image: linear-gradient(to right top, #ffffff, #fbfaff, #f6f5ff, #f1f1ff, #ececff);
+
 }
 .body {
     display: flex;

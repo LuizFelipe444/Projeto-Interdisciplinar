@@ -1,0 +1,21 @@
+﻿.Tabela{
+    display:flex;
+
+}
+.tabela-jogos {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabela-jogos th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+.tabela-jogos th {
+    background-color: #f2f2f2;
+}
+
+.tabela-jogos th:nth-child(even) {
+    background-color: #f9f9f9;
+}
