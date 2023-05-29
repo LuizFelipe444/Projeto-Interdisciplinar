@@ -11,6 +11,7 @@
     background-color: yellow;
 }
 .header-main {
+    border-bottom: 5px solid #014087;
     background-color: #070561;
     color: #fff;
     display: flex;
@@ -51,7 +52,7 @@
 
     .menu-item a:hover {
         color: #DDED2F;
-        padding-bottom: 40px;
+        padding-bottom: 38px;
         border-bottom: 3px solid #DDED2F;
     }
     .menu-item img {
@@ -111,15 +112,15 @@
     }
 
 .header-hamburguer-camp {
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     padding-left: 300px;
     background-color: #070561;
-    
 }
 
 .campeonatos-menu {
+    
     padding-top: 10px;
     display: none;
-    left: 0;
     width: 100%;
     background-color: #070561;
     transition: transform 0.5s ease-in-out;
@@ -128,6 +129,7 @@
 
 .campeonatos-menu-list {
     display: flex;
+    height:150px;
 }
 
 .campeonatos-menu ul {
@@ -177,16 +179,20 @@
 .header-hamburguer-camp {
     padding-left: 300px;
     background-color: #070561;
-    border-top: 3px solid #014087;
 }
 
 .times-menu {
-    padding: 7px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-top: 10px;
     display: none;
-    align-items: center;
-    margin-top: 5px;
+    left: 0;
+    width: 100%;
+    background-color: #070561;
+    transition: transform 0.5s ease-in-out;
+    padding-bottom: 10px;
+}
+.times-menu-list {
+    display: flex;
+    height: 149px;
 }
 
 .times-menu-titulo {
@@ -198,6 +204,8 @@
 }
 
     .times-menu ul li {
+        padding: 7px;
+        padding-left: 15px;
         padding-right: 15px;
         display: flex;
         align-items: center;

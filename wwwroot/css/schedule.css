@@ -7,6 +7,30 @@ box-sizing: border-box;
     padding-top: 15px;
     display:none;
 }
+.schedule-tittle {
+    margin-left:300px;
+    border-left: 5px solid #0025DB;
+    padding: 5px 5px;
+    margin-right: 980px;
+    margin-top: 50px;
+    margin-bottom:15px;
+}
+
+    .schedule-tittle a {
+        text-decoration: none;
+        color: #0025DB;
+        font-size: 18px;
+        font-weight: 700;
+        display:flex;
+        align-items:center; 
+    }
+        .schedule-tittle a img {
+            width: 45px;
+            margin-right: 5px;
+            border:1px solid blue;
+            padding:2px;
+            border-radius:50%;
+        }
 .schedule-row {
 margin-left: 300px;
 margin-right: 100px;
