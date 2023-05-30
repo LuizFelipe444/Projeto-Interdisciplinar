@@ -2,7 +2,7 @@
     background-color: #070561;
     color: white;
     padding: 20px;
-    margin-top:506px;
+    margin-top:100px; /*506px anteriormente*/
 }
 
 .container {
@@ -45,4 +45,20 @@ text-align: center;
 
 .footer-bottom-text {
 font-size: 12px;
+}
+
+@media screen and (max-width: 1320px){
+    div.container{
+        display: block;
+        padding:15px;
+    }
+    h3.footer-title{
+        padding-bottom: 10px;
+    }
+    p.footer-description{
+        padding-bottom:10px;
+    }
+    div.footer-links{
+        text-decoration: underline;
+    }
 }

@@ -53,3 +53,31 @@ text-align: center;
 .item-bottom p {
 padding-bottom: 13px;
 }
+
+
+
+
+@media screen and (max-width: 1320px) {
+
+    .schedule-row {
+        margin-left: 10px;
+        margin-right: 100px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    div#transferencias {
+        margin: 0 0 0 32px;
+    }
+
+    .card-row {
+        display: block;
+        
+    }
+    div.card{
+        margin-bottom: 15px;
+    }
+    .noticia-titulo {
+        margin: 10px 300px 10px 115px;
+    }
+}

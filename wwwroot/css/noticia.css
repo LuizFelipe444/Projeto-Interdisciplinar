@@ -71,3 +71,22 @@ main {
     .noticia-row p {
         padding: 10px;
     }
+
+@media screen and (max-width: 1320px){
+    .nav-header img{
+        width:70px;
+        height:70px;
+    }
+    .nav-header {
+        display: flex;
+        margin-left: 50px;
+        margin-right: 0px;
+    }
+    .nav-header-menu {
+        margin-left: 110px;
+        margin-right: 10px;
+        padding: 5px;
+        display: flex;
+    }
+
+}

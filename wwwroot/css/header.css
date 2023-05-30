@@ -35,11 +35,14 @@
     }
 
 .left-side {
+    
     display: flex;
     align-items: center;
+    
 }
 
-.menu-item {
+.menu-item { /*tudo da nav menos a logo*/
+    
     margin-right: 20px;
     cursor: pointer;
     letter-spacing: 1px;
@@ -56,13 +59,15 @@
         border-bottom: 3px solid #DDED2F;
     }
     .menu-item img {
+        
        width: 50px;
        background-color: #0025DB;
        padding:10px;
        border-radius: 50%;
        
     }
-.menu-item-logo {
+.menu-item-logo { /*logo do site nome*/
+    
     margin-right: 20px;
     font-size:17px;
     font-weight: bold;
@@ -230,4 +235,79 @@
 .times-menu.show2 {
     display: flex;
     animation: slide-down 0.5s ease-in-out forwards;
+}
+
+/*responsividade da nav*/
+@media screen and (max-width: 1320px) {
+
+    .login-button {
+        background-color: #0025DB;
+        color: white;
+        padding: 5px 22px;
+        margin-bottom:5px;
+        margin-right:0;
+        font-size: 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 10px;
+        transition: all 0.2s ease-in-out;
+        font-weight: bold;
+        border: 2px solid #0025DB;
+    }
+    .register-button {
+        margin-right: 0;
+        background-color: #070561;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+        border: 2px solid #0025DB;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .right-side { /*div dos botoes login e registro*/
+        display: block;
+        align-items: center;
+    }
+    
+    .menu-item img { /*lupinha*/
+        display: none;
+    }
+    .menu-item { /*tudo da nav menos a logo*/
+
+        margin-right: 12px;
+        cursor: pointer;
+        letter-spacing: 1px;
+        font-weight: bold;
+        font-size: 10px;
+        transition: all ease-in-out;
+        margin-left: 0;
+        padding-left:0;
+        font-size: 13px;
+        padding-top: 5px;
+        text-decoration: underline;
+        
+    }
+    .menu-item-logo { /*logo do site nome*/
+
+        margin-right: 20px;
+        font-size: 20px;
+        font-weight: bold;
+         
+    }
+    .left-side {
+        display: flex;
+        align-items: initial;
+        margin: 0;
+        padding: 0;
+    }
+    a#campeonatos-btn{
+        display: none;
+    }
+    .header-hamburguer-camp{
+        padding-left: 10px;
+    }
+    
+
 }
