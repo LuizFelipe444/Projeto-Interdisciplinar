@@ -24,16 +24,10 @@ main {
     display: flex;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
-
-.noticia-titulo {
-    margin: 10px 300px 10px 300px;
+.noticia-titulo{
+    width:100%;
+    text-align:center;
 }
-
-    .noticia-titulo h3 {
-        font-size: 18px;
-        color: black;
-    }
-
 .noticia img {
     border-radius: 20px;
     width: 1800px;

@@ -1,15 +1,20 @@
 ﻿.Tabela{
     display:flex;
-
+    justify-content:center;
+}
+#jogo h1{
+    padding: 10px 0px;
+    text-align:center;
 }
 .tabela-jogos {
     border-collapse: collapse;
-    width: 100%;
+    width: 50%;
+    
 }
 
 .tabela-jogos th, td {
     text-align: left;
-    padding: 8px;
+    padding: 3px;
 }
 
 .tabela-jogos th {

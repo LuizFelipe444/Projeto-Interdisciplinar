@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FatecMonstra</title>
+    <link rel="stylesheet" href="~/css/header.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/body.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/carousel.css"  asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/schedule.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/navheader.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/noticia.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/transferencia.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/tabelajogos.css" asp-append-version="true" />
+
+
+</head>
+<body>
+    <div class="header">
+
+        <div class="header-main" id="header-main">
+            <div class="left-side">
+                <div class="menu-item-logo"><a asp-controller="Home" asp-action="Index">Futebol&Digital</a></div>
+                <div class="menu-item"><a asp-controller="Jogo" asp-action="Index">Jogos</a></div>
+                <div class="menu-item"><a href="" id="campeonatos-btn">Campeonatos</a> </div>
+                <div class="menu-item"><a href="" id="times-btn">Times</a> </div>
+            </div>
+
+            <div class="right-side">
+                <div class="menu-item"><img src="~/imagens/pesquisa.png"></div>
+                 <div class="menu-item"><img src="~/imagens/icone.png"/></div>
+            </div>
+        </div>
+        <div class="header-hamburguer-camp" id="header-hamburguer-camp">
+            <div class="campeonatos-menu" id="campeonatos-menu">
+                <p style="color: rgb(224, 224, 224); font-size: 15px;">Top Campeonatos</p>
+                <div class="campeonatos-menu-list">
+                    <ul>
+                        <li><img src="../imagens/brasil.png"><a asp-controller="Campeonato" asp-action="Index">Brasileirao</a></li>
+                        <li><img src="../imagens/frança.png"><a href="">Ligue one </a></li>
+                        <li><img src="../imagens/inglaterra.png"><a href="">Premier League</a></li>
+                    </ul>
+                    <ul>
+                        <li><img src="../imagens/alemanha.png"><a href="">Bundeslisga</a></li>
+                        <li><img src="../imagens/espoanha.png"><a href="">La Liga</a></li>
+                        <li><img src="../imagens/italia.png"><a href="">Serie A</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="header-hamburguer-camp">
+            <div class="times-menu" id="times-menu">
+                <div class="times-menu-titulo">
+                    <span style="color: rgb(224, 224, 224); font-size: 15px;">Top Times</span>
+                    <div class="times-menu-list">
+                    <ul>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+                        </li>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+
+                        </li>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+
+                        </li>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+
+                        </li>
+                        <li>
+                            <img src="../imagens/Time/corinthians.png" alt=""><a asp-controller="Time" asp-action="Index">Corinthians</a>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="corpo">
+        <main>
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <h3 class="footer-title">Agenda de Jogos</h3>
+                <p class="footer-description">Acompanhe a programação dos jogos de futebol</p>
+            </div>
+            <div class="footer-links">
+                <a href="#" class="footer-link">Futebol</a>
+                <a href="#" class="footer-link">Brasileirão</a>
+                <a href="#" class="footer-link">Libertadores</a>
+                <a href="#" class="footer-link">Outros Esportes</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p class="footer-bottom-text">© 2023 Futebol Digital. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/carousel.js"></script>
+    <script src="~/js/hamburguer.js" asp-append-version="true"></script>
+    <script src="~/js/navheader.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
