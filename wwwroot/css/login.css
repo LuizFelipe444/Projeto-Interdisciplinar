@@ -1,0 +1,92 @@
+﻿.body-login {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #070561, #070561 50%, #fff 50%);
+    background-size: cover;
+    background-position: center;
+}
+
+.login-form {
+    width: 300px;
+    background-color: #fff;
+    padding:38px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+    .login-form h4 {
+        text-align: center;
+        color: #4285f4;
+        font-size: 24px;
+        margin-top: 0;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+    }
+
+    .login-form label {
+        font-weight: bold;
+        color: #333;
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .login-form .form-control {
+        margin-bottom: 15px;
+        padding: 8px 0px 8px 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        width: 100%;
+    }
+
+    .login-form .btn-primary {
+        width: 100%;
+        background-color: #070561;
+        color: #fff;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        .login-form .btn-primary:hover {
+            background-color: #070561;
+        }
+
+    .login-form .text-danger {
+        color: red;
+    }
+
+.create-account {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .create-account p {
+        margin-bottom: 10px;
+    }
+
+    .create-account .btn-secondary {
+        background-color: #f9a825;
+        color: #fff;
+        border: none;
+        padding: 8px 16px;
+        font-size: 14px;
+        border-radius: 4px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+        .create-account .btn-secondary:hover {
+            background-color: #f57c00;
+        }

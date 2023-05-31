@@ -51,7 +51,9 @@
     transition: all ease-in-out;
 }
 
-
+.menu-item a{
+    color:white;
+}
 
     .menu-item a:hover {
         color: #DDED2F;
