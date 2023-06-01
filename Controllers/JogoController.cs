@@ -1,21 +1,34 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using web_app.Filters;
+using web_app.Services;
 
 namespace WebApp.Controllers
 {
+
     public class JogoController : Controller
-    {                   
+    {
 
-
+        private readonly ISessao sessao;
         private readonly Repositories.ADO.SQL_SERVER.Jogo repository;
         public JogoController() 
         {
             repository = new Repositories.ADO.SQL_SERVER.Jogo();
+            this.sessao = sessao;
         }
         // GET: jogosController
+        
+        [UsuarioLogado]
         public ActionResult Index()
         {
+            //return this.sessao.get() == null ? RedirectToAction("IndexUsuario", "Jogo") : View(repository.get());
             return View(repository.get());
+        }
+        
+        public ActionResult IndexUsuario()
+        {
+            return View(repository.get());
+
         }
 
         // GET: jogosController/Details/5

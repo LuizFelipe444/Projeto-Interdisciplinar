@@ -1,3 +1,6 @@
 ﻿@{
-    Layout = "_LayoutLogado";
+    if (ViewContext.HttpContext.Session.Get("login") != null)
+        Layout = "_LayoutLogado";
+    else
+        Layout = "_LayoutDeslogado";
 }

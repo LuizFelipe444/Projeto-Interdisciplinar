@@ -4,7 +4,7 @@
     {
         public static string getConnectionString()
         {
-            return "Server=DESKTOP-Q0P5LKR\\SQLEXPRESS01;Database=CadastroJogos; Trusted_Connection = True; TrustServerCertificate=True;";
+            return "Server=LAB03-D05\\SQLEXPRESS;Database=CadastroJogos; Trusted_Connection = True; TrustServerCertificate=True;";
         } 
     }
 }

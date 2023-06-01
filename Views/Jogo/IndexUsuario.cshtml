@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<WebApp.Models.Jogo>;
 
+
 @{
     ViewData["Title"] = "Index";
 }
@@ -145,9 +146,6 @@
     <button class="carousel-btn next"><img src="~/imagens/direita.png"></button>
 </div>
 
-<p>
-    <a asp-action="Create">Cadastro De Jogo</a>
-</p>
 <div class="schedule-tittle">
     <a href=""><img src="~/imagens/brasil.png"/>Campeonato Brasileiro</a>
 </div>
@@ -173,11 +171,6 @@
                         <div class="game-comment">
                             <span>@Html.DisplayFor(modelItem => item.statusDoJogo)</span>
                         </div>
-                    </div>
-   
-                    <div>
-                        @Html.ActionLink("Editar", "Edit", new { idJogo=item.idJogo }) |
-                        @Html.ActionLink("Excluir", "Delete", new {  idJogo=item.idJogo  })
                     </div>
                 </div>
             </div>

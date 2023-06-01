@@ -9,7 +9,7 @@ namespace web_app.Controllers
         private readonly Repositories.ADO.SQLServer.Login repository;
         private readonly Services.ISessao sessao;
 
-        public LoginController(IConfiguration configuration,                                    Services.ISessao sessao)
+        public LoginController(IConfiguration configuration, Services.ISessao sessao)
         {
             this.repository = new Repositories.ADO.SQLServer.Login(configuration.GetConnectionString(Configurations.Appsettings.getKeyConnectionString()));
             this.sessao = sessao;

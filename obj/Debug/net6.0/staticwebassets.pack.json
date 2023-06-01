@@ -1,431 +1,431 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\Home.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\Home.css",
       "PackagePath": "staticwebassets\\css\\Home.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\body.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\body.css",
       "PackagePath": "staticwebassets\\css\\body.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\carousel.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\carousel.css",
       "PackagePath": "staticwebassets\\css\\carousel.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\footer.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\footer.css",
       "PackagePath": "staticwebassets\\css\\footer.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\header.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\header.css",
       "PackagePath": "staticwebassets\\css\\header.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\navheader.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\navheader.css",
       "PackagePath": "staticwebassets\\css\\navheader.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\noticia.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\noticia.css",
       "PackagePath": "staticwebassets\\css\\noticia.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\schedule.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\schedule.css",
       "PackagePath": "staticwebassets\\css\\schedule.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\tabelajogos.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\tabelajogos.css",
       "PackagePath": "staticwebassets\\css\\tabelajogos.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\css\\transferencia.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\css\\transferencia.css",
       "PackagePath": "staticwebassets\\css\\transferencia.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg",
       "PackagePath": "staticwebassets\\imagens\\1673376408cc02d42b8939768b8a4f1e4d826faa79.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\22519463_1585252804894808_443642118278458540_n.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\22519463_1585252804894808_443642118278458540_n.png",
       "PackagePath": "staticwebassets\\imagens\\22519463_1585252804894808_443642118278458540_n.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\ETnCKyQ0YITbiaynktQG.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\ETnCKyQ0YITbiaynktQG.jpg",
       "PackagePath": "staticwebassets\\imagens\\ETnCKyQ0YITbiaynktQG.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Elenco-Corinthians-2015.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Elenco-Corinthians-2015.jpg",
       "PackagePath": "staticwebassets\\imagens\\Elenco-Corinthians-2015.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\SCCPxNike_Home_Details_1x1_1-2.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\SCCPxNike_Home_Details_1x1_1-2.jpg",
       "PackagePath": "staticwebassets\\imagens\\SCCPxNike_Home_Details_1x1_1-2.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Time\\corinthians.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Time\\corinthians.png",
       "PackagePath": "staticwebassets\\imagens\\Time\\corinthians.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Time\\santos.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\Time\\santos.png",
       "PackagePath": "staticwebassets\\imagens\\Time\\santos.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\agenda.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\agenda.png",
       "PackagePath": "staticwebassets\\imagens\\agenda.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\alemanha.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\alemanha.png",
       "PackagePath": "staticwebassets\\imagens\\alemanha.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\bau.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\bau.jpg",
       "PackagePath": "staticwebassets\\imagens\\bau.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\brasil.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\brasil.png",
       "PackagePath": "staticwebassets\\imagens\\brasil.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg",
       "PackagePath": "staticwebassets\\imagens\\cassio-do-corinthians-levanta-a-taca-de-campeao-brasileiro-de-2017-1511732846101_956x500.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\deivid.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\deivid.jpg",
       "PackagePath": "staticwebassets\\imagens\\deivid.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\dia-e-noite.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\dia-e-noite.png",
       "PackagePath": "staticwebassets\\imagens\\dia-e-noite.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\direita.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\direita.png",
       "PackagePath": "staticwebassets\\imagens\\direita.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\espoanha.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\espoanha.png",
       "PackagePath": "staticwebassets\\imagens\\espoanha.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\esquerda.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\esquerda.png",
       "PackagePath": "staticwebassets\\imagens\\esquerda.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\frança.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\frança.png",
       "PackagePath": "staticwebassets\\imagens\\frança.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\futebol_digital-removebg-preview.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\futebol_digital-removebg-preview.png",
       "PackagePath": "staticwebassets\\imagens\\futebol_digital-removebg-preview.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\globo.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\globo.png",
       "PackagePath": "staticwebassets\\imagens\\globo.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\icone.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\icone.png",
       "PackagePath": "staticwebassets\\imagens\\icone.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\icons8-configurações-50.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\icons8-configurações-50.png",
       "PackagePath": "staticwebassets\\imagens\\icons8-configurações-50.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\inglaterra.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\inglaterra.png",
       "PackagePath": "staticwebassets\\imagens\\inglaterra.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\iocone.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\iocone.png",
       "PackagePath": "staticwebassets\\imagens\\iocone.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\italia.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\italia.png",
       "PackagePath": "staticwebassets\\imagens\\italia.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\lua.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\lua.png",
       "PackagePath": "staticwebassets\\imagens\\lua.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\luazinha.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\luazinha.png",
       "PackagePath": "staticwebassets\\imagens\\luazinha.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\pesquisa.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\pesquisa.png",
       "PackagePath": "staticwebassets\\imagens\\pesquisa.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\pngwing.com.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\pngwing.com.png",
       "PackagePath": "staticwebassets\\imagens\\pngwing.com.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\roger-guedes-se-lamenta-em-corinthians-x-del-valle-jogo-da-libertadores-1683077670439_v2_450x450.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\roger-guedes-se-lamenta-em-corinthians-x-del-valle-jogo-da-libertadores-1683077670439_v2_450x450.jpg",
       "PackagePath": "staticwebassets\\imagens\\roger-guedes-se-lamenta-em-corinthians-x-del-valle-jogo-da-libertadores-1683077670439_v2_450x450.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\sol.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\sol.png",
       "PackagePath": "staticwebassets\\imagens\\sol.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\spnb.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\spnb.jpg",
       "PackagePath": "staticwebassets\\imagens\\spnb.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\user.png",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\user.png",
       "PackagePath": "staticwebassets\\imagens\\user.png"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\imagens\\veiga.jpg",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\imagens\\veiga.jpg",
       "PackagePath": "staticwebassets\\imagens\\veiga.jpg"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\carousel.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\js\\carousel.js",
       "PackagePath": "staticwebassets\\js\\carousel.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\hamburguer.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\js\\hamburguer.js",
       "PackagePath": "staticwebassets\\js\\hamburguer.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\navheader.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\js\\navheader.js",
       "PackagePath": "staticwebassets\\js\\navheader.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\luizb\\OneDrive\\Desktop\\WebApp\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\2971392221003\\Documents\\GitHub\\Projeto-Interdisciplinar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
