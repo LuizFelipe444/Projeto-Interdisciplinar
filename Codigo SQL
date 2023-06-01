@@ -1,0 +1,23 @@
+create database CadastroJogos
+
+use CadastroJogos
+
+create table jogo(
+	idJogo int identity primary key,
+	timeMandante varchar(250) not null,
+	timeVisitante varchar(250) not null,
+	Rodada varchar(250) not null,
+	resultadoMandante int,
+	resultadoVisitante int,
+	statusDoJogo varchar(250),
+	dataJogo dateTime,
+	ImagemMandante varchar(250),
+	ImagemVisitante varchar(250)
+)
+
+create table [login](
+	id int not null identity(1,1),
+	usuario varchar(100) not null,
+	senha char(50) not null
+	constraint pk_login primary key (id)
+);
