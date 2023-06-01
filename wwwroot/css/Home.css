@@ -10,7 +10,7 @@ main span#titulo {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     display: inline-block;
-    margin-top: 50px;
+    padding-top: 10px;
     margin-left: 125px;
 }
 
@@ -20,12 +20,11 @@ main span img { /*imagem do globo*/
 }
 /* CARDS */
 main #principal { /*quadrado branco de cards (div)*/
-    background-color: white;
     -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
-    padding: 12px 40px 40px 40px;
-    margin-top: 10px;
+    padding: 30px 40px 40px 40px;
+    border-radius:5px;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
@@ -41,13 +40,18 @@ span#topnews {
 }
 
 #card1 { /*card 1 horizontal*/
-    border: 2px solid rgb(161, 161, 161);
-    background-color: rgb(214, 214, 214);
+    border-radius: 15px;
+    background-color: #ffffffcd;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     display: flex;
     margin-bottom: 15px;
+    width:100%;
 }
-
+    #card1 img {
+        width: 565px;
+        height =370px;
+        border-radius:15px;
+    }
 #textoCard1 {
     display: flex;
     flex-direction: column;
@@ -81,11 +85,16 @@ span#topnews {
     margin-top: 20px;
     padding-bottom: 20px;
     width: 32%;
-    border: 2px solid rgb(161, 161, 161);
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-    background-color: rgb(214, 214, 214);
+    background-color: #ffffffcd;
+    border-radius: 15px;
 }
-
+#card2 img{
+    width: 100%; 
+    height:270px;
+    border-radius:15px;
+    
+}
 #textoCard2 { /*pega em todos os cards de baixo*/
     display: flex;
     flex-direction: column;
@@ -117,11 +126,15 @@ span#topnews {
     padding-bottom: 20px; /*20px*/
     display: inline-block;
     margin-top: 20px;
-    border: 2px solid rgb(161, 161, 161);
+    border-radius: 15px;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-    background-color: rgb(214, 214, 214);
+    background-color: #ffffffcd;
 }
-
+    #card3 img {
+        width: 100%;
+        height: 270px;
+        border-radius: 15px;
+    }
 @media screen and (max-width: 1320px) {
     nav {
         width: 100%;
