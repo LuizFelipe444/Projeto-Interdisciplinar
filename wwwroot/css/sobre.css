@@ -4,13 +4,13 @@ main #sobre-main{
 
 }
 
-h1 #sobre-paragrafo {
+h1 #sobre-titulo {
     text-align:center;
     padding-left: 50px;
     margin-top: 50px;
 }
 
- h3   #sobre-titulo {
+ h3 #sobre-paragrafo {
        
         text-align: center;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
