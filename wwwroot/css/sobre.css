@@ -1,20 +1,23 @@
 ﻿
-main #sobre-main{
+.sobre-main{
     background-image: linear-gradient(to right top, #ffffff, #fbfaff, #f6f5ff, #f1f1ff, #ececff);
 
 }
 
-h1 #sobre-titulo {
-    text-align:center;
+.sobre-titulo {
+    text-align: center;
     padding-left: 50px;
     margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
 }
 
- h3 #sobre-paragrafo {
+.sobre-paragrafo {
        
         text-align: center;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
         text-decoration: underline;
         font-size: 35px; /*30px*/
+        text-indent:unset;
     }
