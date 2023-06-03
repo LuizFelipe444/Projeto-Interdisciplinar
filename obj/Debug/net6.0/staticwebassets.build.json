@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SVlpaGXUdh0UsemgcC/1IIytSRHk8efKm2ekFA4Jlt4=",
+  "Hash": "BnUKH8+E1I8qK/gxdfAO9NhcdHk7W/5IJC3jksBsY+U=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\schedule.css"
+    },
+    {
+      "Identity": "C:\\Users\\diogo\\Desktop\\clone 02-06\\Projeto-Interdisciplinar\\wwwroot\\css\\sobre.css",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diogo\\Desktop\\clone 02-06\\Projeto-Interdisciplinar\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "css/sobre.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sobre.css"
     },
     {
       "Identity": "C:\\Users\\diogo\\Desktop\\clone 02-06\\Projeto-Interdisciplinar\\wwwroot\\css\\tabelajogos.css",
