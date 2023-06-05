@@ -11,7 +11,7 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: linear-gradient(to bottom, #070561, #070561 50%, #fff 50%);
+    background-image: linear-gradient(to bottom, #070561, #070561 50%);
     background-size: cover;
     background-position: center;
 }
