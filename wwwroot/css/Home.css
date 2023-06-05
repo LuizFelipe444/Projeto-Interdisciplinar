@@ -10,7 +10,7 @@ main span#titulo {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     display: inline-block;
-    padding-top: 10px;
+    margin: 30px 0 15px 0;
     margin-left: 125px;
 }
 
@@ -45,11 +45,11 @@ span#topnews {
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     display: flex;
     margin-bottom: 15px;
-    width:100%;
+    width: 100%;
 }
     #card1 img {
         width: 565px;
-        height: 370px;
+        height: 450px;
         border-radius:15px;
     }
 #textoCard1 {
@@ -73,18 +73,18 @@ span#topnews {
     #textoCard1 span {
         margin: 18px 25px 35px 25px;
         text-align: left;
-        font-size: 24px;
+        font-size: 22px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
 
 /* Card 2*/
 
 #card2 { /*apenas o card 2 e 4*/
-    height: 673px;
+    
     display: inline-block;
     margin-top: 20px;
     padding-bottom: 20px;
-    width: 32%;
+    width: 31%;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     background-color: #ffffffcd;
     border-radius: 15px;
@@ -116,13 +116,13 @@ span#topnews {
     #textoCard2 span { /*pega em todos os cards de baixo*/
         margin: 0 25px 20px 25px;
         text-align: left;
-        font-size: 24px;
+        font-size: 22px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
 
 #card3 { /*card do veiga*/
-    width: 32%;
-    margin: 0 27px 0 27px;
+    width: 31%;
+    margin: 0 35px 0 35px;
     padding-bottom: 20px; /*20px*/
     display: inline-block;
     margin-top: 20px;

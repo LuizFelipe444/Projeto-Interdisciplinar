@@ -69,7 +69,7 @@
 .menu-item-logo { /*logo do site nome*/
     
     margin-right: 20px;
-    font-size:17px;
+    font-size:25px;
     font-weight: bold;
 }
         .menu-item img:hover {
@@ -277,7 +277,7 @@
         font-weight: bold;
     }
     .right-side { /*div dos botoes login e registro*/
-        display: block;
+        display: none;
         align-items: center;
     }
     
@@ -285,7 +285,7 @@
         display: none;
     }
     .menu-item { /*tudo da nav menos a logo*/
-
+        
         margin-right: 12px;
         cursor: pointer;
         letter-spacing: 1px;
@@ -313,7 +313,7 @@
         padding: 0;
     }
     a#campeonatos-btn{
-        display: none;
+        display: block;
     }
     .header-hamburguer-camp{
         padding-left: 10px;
