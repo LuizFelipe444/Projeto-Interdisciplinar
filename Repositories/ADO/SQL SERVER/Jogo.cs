@@ -15,10 +15,9 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                 using (SqlCommand command = new SqlCommand())
                 {
                     command.Connection = connection;
-                    command.CommandText = "SET IDENTITY_INSERT jogo ON " +
-                        "insert into jogo (idJogo,timeMandante, timeVisitante,Rodada, resultadoMandante, resultadoVisitante,  statusDoJogo,dataJogo, ImagemMandante, ImagemVisitante) values (@idJogo,@timeMandante,@timeVisitante,@Rodada, @ResultadoMandante, @ResultadoVisitante,  @StatusDoJogo, @dataJogo, @ImagemMandante,@ImagemVisitante);" +
-                        "SET IDENTITY_INSERT jogo OFF";
-                    command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = jogo.idJogo;
+                    command.CommandText =
+                        "insert into jogo (timeMandante, timeVisitante,Rodada, resultadoMandante, resultadoVisitante,  statusDoJogo,dataJogo, ImagemMandante, ImagemVisitante) values (@timeMandante,@timeVisitante,@Rodada, @ResultadoMandante, @ResultadoVisitante,  @StatusDoJogo, @dataJogo, @ImagemMandante,@ImagemVisitante);";
+                       
                     command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
                     command.Parameters.Add(new SqlParameter("@timeVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.timeVisitante;
                     command.Parameters.Add(new SqlParameter("@Rodada", System.Data.SqlDbType.VarChar)).Value = jogo.Rodada;

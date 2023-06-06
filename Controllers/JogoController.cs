@@ -53,7 +53,7 @@ namespace WebApp.Controllers
                 repository.add(jogo);
                 return RedirectToAction(nameof(Index));
             }
-            catch
+             catch
             {
                 return View();
             }
