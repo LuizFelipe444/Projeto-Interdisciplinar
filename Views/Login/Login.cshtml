@@ -33,30 +33,14 @@
                     <input type="submit" value="Logar" class="btn btn-primary" />
                 </div>
             </form>
-            <div class="create-account">
+          @*  <div class="create-account">
                 <p>Não tem uma conta? Crie uma agora:</p>
                 <a a asp-controller="Login" asp-action="Create" class="btn btn-secondary">Criar Conta</a>
-            </div>
+            </div>*@
         </div>
     </div>
 
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <h3 class="footer-title">Agenda de Jogos</h3>
-                <p class="footer-description">Acompanhe a programação dos jogos de futebol</p>
-            </div>
-            <div class="footer-links">
-                <a href="#" class="footer-link">Futebol</a>
-                <a href="#" class="footer-link">Brasileirão</a>
-                <a href="#" class="footer-link">Libertadores</a>
-                <a href="#" class="footer-link">Outros Esportes</a>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p class="footer-bottom-text">© 2023 Futebol Digital. Todos os direitos reservados.</p>
-        </div>
-    </footer>
+    
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

@@ -3,12 +3,13 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-#jogo{
+#jogo {
     padding-top: 15px;
-    display:none;
+    display: none;
 }
 .schedule-tittle {
     margin-left: 295px;
+    margin-right: 1005px;
     padding: 5px 5px;
     margin-top: 50px;
     margin-bottom: 15px;
@@ -31,10 +32,11 @@ box-sizing: border-box;
             border-radius:50%;
         }
 .schedule-row {
-margin-left: 300px;
-margin-right: 100px;
-display: flex;
-flex-wrap: wrap;
+    margin-left: 300px;
+    margin-right: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50vh;
 }
 .schedule-games {
     width: 398px;
