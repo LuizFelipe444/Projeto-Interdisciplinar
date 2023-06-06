@@ -91,3 +91,29 @@ flex-direction: column;
     .game-result span {
         margin-top: 10px;
     }
+
+@media screen and (max-width: 1320px) {
+    .body-tittle span {
+        margin: 10px;
+    }
+
+    .body-tittle {
+        margin: 10px;
+    }
+
+    .week {
+        max-width: 900%;
+    }
+
+    .next {
+        right: 5%;
+    }
+
+    .prev {
+        left: 5%;
+    }
+
+    .schedule-tittle {
+        margin-left: 0;
+    }
+}
