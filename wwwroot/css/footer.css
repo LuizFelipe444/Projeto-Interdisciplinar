@@ -18,7 +18,7 @@ flex: 1;
 }
 
 .footer-title {
-font-size: 24px;
+font-size: 20px;
 font-weight: bold;
 margin-bottom: 5px;
 }
@@ -29,6 +29,7 @@ font-size: 14px;
 
 .footer-links {
 display: flex;
+justify-content: space-between;
 }
 
 .footer-link {
@@ -44,11 +45,32 @@ text-align: center;
 }
 
 .footer-bottom-text {
-font-size: 12px;
+font-size: 15px;
 }
 
-@media screen and (max-width: 1320px){
-    div.container{
+.bi {
+    width: 100%;
+    height: auto;
+    fill: white;
+}
+
+.container-desenvolvedores {
+    display: flex;
+    justify-content: space-around;
+}
+
+svg {
+    transition: transform 0.3s ease;
+}
+
+    svg:hover {
+        transform: scale(1.2);
+    }
+
+
+
+@media screen and (max-width: 1320px) {
+    div .container{
         display: block;
         padding:15px;
     }
