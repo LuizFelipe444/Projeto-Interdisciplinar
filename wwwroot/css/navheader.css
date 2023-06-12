@@ -19,6 +19,7 @@ nav {
         border-radius: 50%;
         padding: 10px;
         border: 1px solid rgb(204, 204, 204);
+        
     }
 
     .nav-header span {
@@ -29,10 +30,12 @@ nav {
 
 /* Estilo para a div */
 .nav-header-menu {
+
     margin-left: 350px;
     margin-right: 350px;
     padding: 5px;
-    display:flex;
+   display: flex;
+    
 }
 
     /* Estilo para cada seção da div */
@@ -41,6 +44,8 @@ nav {
         text-decoration: none;
         color: rgb(231, 231, 231);
         font-size: 18px;
+        
+        
     }
 
         .nav-header-menu a:hover {

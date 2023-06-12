@@ -1,11 +1,8 @@
-﻿.Tabela{
+﻿/*.Tabela{
     display:flex;
     justify-content:center;
 }
-#jogo h1{
-    padding: 10px 0px;
-    text-align:center;
-}
+
 .tabela-jogos {
     border-collapse: collapse;
     width: 50%;
@@ -23,4 +20,96 @@
 
 .tabela-jogos th:nth-child(even) {
     background-color: #f9f9f9;
+}
+    */
+#jogo h1 {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.first td {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.tabelaJogos td {
+    text-align: center;
+    padding: 5px 30px;
+}
+
+.tabelaJogos {
+    margin-left: 12%;
+    margin-top: 50px;
+    background-color: #d2ddff;
+    border-radius: 10px;
+}
+
+.Pclassificados {
+    border: 2px solid black;
+    background-color: rgb(0, 255, 140);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.classificados {
+    display: inline-block;
+    padding: 10px;
+}
+
+.PsulClassificados {
+    border: 2px solid black;
+    background-color: rgb(106, 106, 247);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sulClassificados {
+    display: inline-block;
+    padding: 10px;
+}
+
+.firstStyle {
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.linhaClubes {
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.spanLegenda {
+    display: block;
+    padding: 2px;
+}
+
+.lib {
+    vertical-align: middle;
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(0, 255, 140);
+    border-radius: 5px;
+}
+
+.sul {
+    vertical-align: middle;
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(106, 106, 247);
+    border-radius: 5px;
+}
+
+.legenda {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#botoes {
+    text-align: end;
+    margin-right: 200px;
 }
