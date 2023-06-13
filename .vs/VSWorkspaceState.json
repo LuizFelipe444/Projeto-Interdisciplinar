@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controllers",
     "\\wwwroot",
     "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\wwwroot\\css\\tabelajogos.css",
+  "SelectedNode": "\\Controllers\\JogoController.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,30 @@
+﻿.control-label {
+    font-size: 20px;
+}
+
+input {
+    width: 300px; /* Largura do input */
+    height: 35px; /* Altura do input */
+    font-size: 20px; /* Tamanho da fonte */
+}
+
+#subtitulo-edit,#titulo-edit {
+    padding: 10px;
+    text-align:center;
+}
+
+#voltar {
+    font-size: 20px;
+    padding: 9px 20px;
+}
+
+.form-group {
+    padding: 9px 20px;
+}
+
+#cadastro-jogo {
+    text-align:center;
+    padding-top: 30px;
+    font-size: 20px;
+    background-color: white;
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj": {}
+    "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj": {
+    "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
+        "projectPath": "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
         "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\obj\\",
+        "outputPath": "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

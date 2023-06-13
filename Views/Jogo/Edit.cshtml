@@ -1,14 +1,14 @@
 ﻿@model WebApp.Models.Jogo
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Editar";
 }
 
-<h1>Edit</h1>
+<h1 id="titulo-edit">Editar</h1>
 
-<h4>Jogo</h4>
+<h2 id="subtitulo-edit">Jogo</h2>
 <hr />
-<div class="row">
+<div class="row" id="form-edit">
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -19,47 +19,47 @@
             <span asp-validation-for="idJogo" class="text-danger"></span>
             </div>*@
             <div class="form-group">
-                <label asp-for="timeMandante" class="control-label"></label>
+                <label asp-for="timeMandante" class="control-label">Time Mandante:</label>
                 <input asp-for="timeMandante" class="form-control" />
                 <span asp-validation-for="timeMandante" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="timeVisitante" class="control-label"></label>
+                <label asp-for="timeVisitante" class="control-label">Time Visitante:</label>
                 <input asp-for="timeVisitante" class="form-control" />
                 <span asp-validation-for="timeVisitante" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Rodada" class="control-label"></label>
+                <label asp-for="Rodada" class="control-label">Rodada:</label>
                 <input asp-for="Rodada" class="form-control" />
                 <span asp-validation-for="Rodada" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="resultadoMandante" class="control-label"></label>
+                <label asp-for="resultadoMandante" class="control-label">Resultado Mandante:</label>
                 <input asp-for="resultadoMandante" class="form-control" />
                 <span asp-validation-for="resultadoMandante" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="resultadoVisitante" class="control-label"></label>
+                <label asp-for="resultadoVisitante" class="control-label">Resultado Visitante:</label>
                 <input asp-for="resultadoVisitante" class="form-control" />
                 <span asp-validation-for="resultadoVisitante" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="statusDoJogo" class="control-label"></label>
+                <label asp-for="statusDoJogo" class="control-label">Status do Jogo:</label>
                 <input asp-for="statusDoJogo" class="form-control" />
                 <span asp-validation-for="statusDoJogo" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="dataJogo" class="control-label"></label>
+                <label asp-for="dataJogo" class="control-label">Data do Jogo:</label>
                 <input asp-for="dataJogo" class="form-control" />
                 <span asp-validation-for="dataJogo" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ImagemMandante" class="control-label"></label>
+                <label asp-for="ImagemMandante" class="control-label">Imagem Mandante:</label>
                 <input asp-for="ImagemMandante" class="form-control" type="file" />
                 <span asp-validation-for="ImagemMandante" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ImagemVisitante" class="control-label"></label>
+                <label asp-for="ImagemVisitante" class="control-label">Imagem Visitante:</label>
                 <input asp-for="ImagemVisitante" class="form-control" type="file" />
                 <span asp-validation-for="ImagemVisitante" class="text-danger"></span>
             </div>
@@ -71,7 +71,7 @@
 </div>
 
 <div>
-    <a asp-action="Index">Voltar</a>
+    <a asp-action="Index" id="voltar">Voltar</a>
 </div>
 
 @section Scripts {
