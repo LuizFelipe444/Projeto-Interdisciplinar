@@ -149,42 +149,40 @@
     <a asp-action="Create">Cadastro De Jogo</a>
 </p>
 <div class="schedule-tittle">
-    <a href=""><img src="~/imagens/brasil.png"/>Campeonato Brasileiro</a>
+    <a href=""><img src="~/imagens/brasil.png" />Campeonato Brasileiro</a>
 </div>
 <div class="schedule-row">
-@foreach (var item in Model) {
-    <div class="schedule" id="schedule">
-        <div class="schedule-body">
-            <div class="schedule-main">
-                <div class="schedule-games">
-                    <div class="schedule-game-top">
-                        <span>@Html.DisplayFor(modelItem => item.Rodada)</span>
-                        <span>@Html.DisplayFor(modelItem => item.dataJogo)</span>
-                    </div>
-                    <div class="schedule-game-mid">
-                        <div class="game-teams">
-                            <span><img src="~/imagens/Time/@item.ImagemMandante"><span>@Html.DisplayFor(modelItem => item.timeMandante)</span></span>
-                            <span><img src="~/imagens/Time/@item.ImagemVisitante"><span>@Html.DisplayFor(modelItem => item.timeVisitante)</span></span>
+    @foreach (var item in Model)
+    {
+        <div class="schedule" id="schedule">
+            <div class="schedule-body">
+                <div class="schedule-main">
+                    <div class="schedule-games">
+                        <div class="schedule-game-top">
+                            <span>@Html.DisplayFor(modelItem => item.Rodada)</span>
+                            <span>@Html.DisplayFor(modelItem => item.dataJogo)</span>
                         </div>
-                        <div class="game-result">
-                            <span>@Html.DisplayFor(modelItem => item.resultadoMandante)</span>
-                            <span>@Html.DisplayFor(modelItem => item.resultadoVisitante)</span>
+                        <div class="schedule-game-mid">
+                            <div class="game-teams">
+                                <span><img src="~/imagens/Time/@item.ImagemMandante"><span>@Html.DisplayFor(modelItem => item.timeMandante)</span></span>
+                                <span><img src="~/imagens/Time/@item.ImagemVisitante"><span>@Html.DisplayFor(modelItem => item.timeVisitante)</span></span>
+                            </div>
+                            <div class="game-result">
+                                <span>@Html.DisplayFor(modelItem => item.resultadoMandante)</span>
+                                <span>@Html.DisplayFor(modelItem => item.resultadoVisitante)</span>
+                            </div>
+                            <div class="game-comment">
+                                <span>@Html.DisplayFor(modelItem => item.statusDoJogo)</span>
+                            </div>
                         </div>
-                        <div class="game-comment">
-                            <span>@Html.DisplayFor(modelItem => item.statusDoJogo)</span>
+
+                        <div>
+                            @Html.ActionLink("Editar", "Edit", new { idJogo=item.idJogo }) |
+                            @Html.ActionLink("Excluir", "Delete", new {  idJogo=item.idJogo  })
                         </div>
-                    </div>
-   
-                    <div>
-                        @Html.ActionLink("Editar", "Edit", new { idJogo=item.idJogo }) |
-                        @Html.ActionLink("Excluir", "Delete", new {  idJogo=item.idJogo  })
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-}
-    </div>
-
-
-
+    }
+</div>

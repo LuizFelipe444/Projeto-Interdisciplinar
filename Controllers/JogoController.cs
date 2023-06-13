@@ -11,20 +11,20 @@ namespace WebApp.Controllers
 
         private readonly ISessao sessao;
         private readonly Repositories.ADO.SQL_SERVER.Jogo repository;
-        public JogoController() 
+        public JogoController()
         {
             repository = new Repositories.ADO.SQL_SERVER.Jogo();
             this.sessao = sessao;
         }
         // GET: jogosController
-        
+
         [UsuarioLogado]
         public ActionResult Index()
         {
             //return this.sessao.get() == null ? RedirectToAction("IndexUsuario", "Jogo") : View(repository.get());
             return View(repository.get());
         }
-        
+
         public ActionResult IndexUsuario()
         {
             return View(repository.get());
@@ -53,7 +53,7 @@ namespace WebApp.Controllers
                 repository.add(jogo);
                 return RedirectToAction(nameof(Index));
             }
-             catch
+            catch
             {
                 return View();
             }
@@ -62,8 +62,8 @@ namespace WebApp.Controllers
         // GET: jogosController/Edit/5
         public ActionResult Edit(int idjogo)
         {
-           
-            return View();
+
+            return View(this.repository.getEdit(idjogo));
         }
 
         // POST: jogosController/Edit/5
@@ -73,7 +73,7 @@ namespace WebApp.Controllers
         {
             try
             {
-                repository.edit(jogo);
+                repository.edit(idJogo, jogo);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -89,6 +89,6 @@ namespace WebApp.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        
+
     }
 }

@@ -17,7 +17,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                     command.Connection = connection;
                     command.CommandText =
                         "insert into jogo (timeMandante, timeVisitante,Rodada, resultadoMandante, resultadoVisitante,  statusDoJogo,dataJogo, ImagemMandante, ImagemVisitante) values (@timeMandante,@timeVisitante,@Rodada, @ResultadoMandante, @ResultadoVisitante,  @StatusDoJogo, @dataJogo, @ImagemMandante,@ImagemVisitante);";
-                       
+
                     command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
                     command.Parameters.Add(new SqlParameter("@timeVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.timeVisitante;
                     command.Parameters.Add(new SqlParameter("@Rodada", System.Data.SqlDbType.VarChar)).Value = jogo.Rodada;
@@ -87,7 +87,42 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
             }
         }
 
-        public void edit(Models.Jogo jogo)
+        public Models.Jogo getEdit(int id)
+        {
+            Models.Jogo jogo = new Models.Jogo();
+
+            string connectionString = Configuration.getConnectionString();
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+
+                using (SqlCommand command = new SqlCommand())
+                {
+                    command.Connection = connection;
+                    command.CommandText = "select timeMandante, timeVisitante,Rodada,resultadoMandante,resultadoVisitante,statusDoJogo,dataJogo,ImagemMandante,ImagemVisitante from jogo where idJogo = @idJogo";
+                    command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = id;
+
+                    SqlDataReader dr = command.ExecuteReader();
+                    if (dr.Read())
+                    {
+                        //Models.Jogo jogo = new Models.Jogo();
+                        jogo.timeMandante = (string)dr["timeMandante"];
+                        jogo.timeVisitante = (string)dr["timeVisitante"];
+                        jogo.Rodada = (string)dr["Rodada"];
+                        jogo.resultadoMandante = (int)dr["resultadoMandante"];
+                        jogo.resultadoVisitante = (int)dr["resultadoVisitante"];
+                        jogo.statusDoJogo = (string)dr["statusDoJogo"];
+                        jogo.dataJogo = (DateTime)dr["dataJogo"];
+                        jogo.ImagemMandante = (string)dr["ImagemMandante"];
+                        jogo.ImagemVisitante = (string)dr["ImagemVisitante"];
+
+                    }
+                }
+            }
+            return jogo;
+        }
+
+        public void edit(int idJogo, Models.Jogo jogo)
         {
             {
                 string connectionString = Configuration.getConnectionString();
@@ -99,7 +134,7 @@ namespace WebApp.Repositories.ADO.SQL_SERVER
                     {
                         command.Connection = connection;
                         command.CommandText = "update jogo set timeMandante = @timeMandante, timeVisitante = @timeVisitante, Rodada = @Rodada, resultadoMandante =@resultadoMandante, resultadoVisitante = @resultadoVisitante, statusdojogo = @statusdojogo, datajogo = @datajogo, ImagemMandante = @ImagemMandante, ImagemVisitante = @ImagemVisitante  where idJogo = @idjogo";
-                        command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = jogo.idJogo;
+                        command.Parameters.Add(new SqlParameter("@idJogo", System.Data.SqlDbType.Int)).Value = idJogo;
                         command.Parameters.Add(new SqlParameter("@timeMandante", System.Data.SqlDbType.VarChar)).Value = jogo.timeMandante;
                         command.Parameters.Add(new SqlParameter("@timeVisitante", System.Data.SqlDbType.VarChar)).Value = jogo.timeVisitante;
                         command.Parameters.Add(new SqlParameter("@Rodada", System.Data.SqlDbType.VarChar)).Value = jogo.Rodada;
