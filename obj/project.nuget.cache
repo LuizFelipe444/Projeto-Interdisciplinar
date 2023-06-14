@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNHkIu3/y5yf4rAh0fmQAVgYWwW0A8idTjRS2NxV8Sn60gyNn/5CLk4zuhB6Bk5W76eYFJJ89VNrXrZG4KvRwg==",
+  "dgSpecHash": "vxMelXeAdmKO6GX0B/1iPRNNnY6/+cYau+K4Kc/Cumquaq76l9SfFK49+hyBMgzNDQD8SZ5hGdM6vOs5r/UqZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\diogo\\source\\repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\diogo\\Source\\Repos\\luizrodd\\Projeto-Interdisciplinar\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diogo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\diogo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

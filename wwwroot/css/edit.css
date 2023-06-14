@@ -8,12 +8,12 @@ input {
     font-size: 20px; /* Tamanho da fonte */
 }
 
-#subtitulo-edit,#titulo-edit {
+.subtitulo,.titulo {
     padding: 10px;
     text-align:center;
 }
 
-#voltar {
+.voltar {
     font-size: 20px;
     padding: 9px 20px;
 }
@@ -26,5 +26,4 @@ input {
     text-align:center;
     padding-top: 30px;
     font-size: 20px;
-    background-color: white;
 }
